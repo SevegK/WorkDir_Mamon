@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\pr2\pr2\bin\Debug\pr2.exe.config
+C:\Users\Student\source\repos\pr2\pr2\bin\Debug\pr2.exe
+C:\Users\Student\source\repos\pr2\pr2\bin\Debug\pr2.pdb
+C:\Users\Student\source\repos\pr2\pr2\obj\Debug\pr2.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\pr2\pr2\obj\Debug\pr2.Form1.resources
+C:\Users\Student\source\repos\pr2\pr2\obj\Debug\pr2.Properties.Resources.resources
+C:\Users\Student\source\repos\pr2\pr2\obj\Debug\pr2.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\pr2\pr2\obj\Debug\pr2.exe
+C:\Users\Student\source\repos\pr2\pr2\obj\Debug\pr2.pdb
